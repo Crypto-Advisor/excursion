@@ -1,0 +1,35 @@
+html{
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: verdana;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.smaller{
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h2{
+    font-size: 21px;
+    color: gray;
+}
+
+h3{
+    font: 16px;
+    color: aquamarine;
+}
+
+.right{
+    text-align: right;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
